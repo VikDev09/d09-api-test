@@ -130,3 +130,5 @@ dmypy.json
 
 # Project specific files
 oauth2.py
+basicauth.py
+get_users.csv
